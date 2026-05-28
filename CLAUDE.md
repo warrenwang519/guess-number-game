@@ -21,3 +21,5 @@ Single-file project: `guess.py` contains all game logic. No dependencies beyond 
 ## Git
 
 Repository: https://github.com/warrenwang519/guess-number-game
+
+**Workflow requirement:** Commit and push to GitHub regularly with clean, descriptive commit messages after completing meaningful units of work. Never let uncommitted changes accumulate — we must never lose work or project status.
